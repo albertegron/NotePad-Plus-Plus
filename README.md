@@ -1,1 +1,1 @@
-# NotePad-Plus-Plus
+# NotePad-Plus-Plus (Python)
